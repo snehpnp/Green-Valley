@@ -1,10 +1,10 @@
 ## 🌿 **Green Valley - MERN Ecommerce Project**  
 📅 **Start Date**: 01-12-2022  
 
-[![GitHub stars](https://img.shields.io/github/stars/your-repo.svg?style=flat&logo=github)](https://github.com/your-repo)  
-[![GitHub forks](https://img.shields.io/github/forks/your-repo.svg?style=flat&logo=github)](https://github.com/your-repo)  
-[![GitHub issues](https://img.shields.io/github/issues/your-repo.svg)](https://github.com/your-repo/issues)  
-[![GitHub license](https://img.shields.io/github/license/your-repo)](https://github.com/your-repo)  
+[![GitHub stars](https://img.shields.io/github/stars/your-repo.svg?style=flat&logo=github)](https://github.com/snehpnp/Green-Valley)  
+[![GitHub forks](https://img.shields.io/github/forks/your-repo.svg?style=flat&logo=github)](https://github.com/snehpnp/Green-Valley)  
+[![GitHub issues](https://img.shields.io/github/issues/your-repo.svg)](https://github.com/snehpnp/Green-Valley/issues)  
+[![GitHub license](https://img.shields.io/github/license/your-repo)](https://github.com/snehpnp/Green-Valley)  
 
 ---
 
