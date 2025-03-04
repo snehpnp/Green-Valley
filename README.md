@@ -100,7 +100,7 @@ npm start
 
 ## 📬 **Contact & Contributions**  
 Feel free to contribute to this project! 💡  
-✉️ **Email:** your-email@example.com  
+✉️ **Email:** snehpnp@gmail.com  
 🔗 **GitHub:** [your-github](https://github.com/snehpnp)  
 
 ---
