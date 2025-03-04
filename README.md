@@ -94,14 +94,14 @@ npm start
 ---
 
 ## 📊 **GitHub Activity**  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=snehpnp&theme=react-dark)  
 
 ---
 
 ## 📬 **Contact & Contributions**  
 Feel free to contribute to this project! 💡  
 ✉️ **Email:** your-email@example.com  
-🔗 **GitHub:** [your-github](https://github.com/your-username)  
+🔗 **GitHub:** [your-github](https://github.com/snehpnp)  
 
 ---
 
